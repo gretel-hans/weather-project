@@ -1,7 +1,7 @@
 
 
 const DetailsPage=(props)=>{
-    console.log(props.weather)
+    //console.log(props.weather)
 
     
     return(
