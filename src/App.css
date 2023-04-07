@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-brand img{
+  width:130px;
+}
+
+#deg{
+  font-size: 40px;
+}
+p{
+  margin-bottom: 0!important;
+}
+
+#contenitore{
+  overflow-x: scroll;
+}
+
+.titolo{
+  font-size:7em
+}
