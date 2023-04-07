@@ -11,8 +11,6 @@ const HomePage=(props)=>{
     let[citySearched,setCitySearched]=useState('')
     let[cityName,setCityName]=useState('')
     let[weather,setWeather]=useState([])
-    let[weatherI,setWeatherI]=useState([])
-
     const eseguifetch = (lon,lat) => {
 
             return(
